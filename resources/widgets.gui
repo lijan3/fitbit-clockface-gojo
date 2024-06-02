@@ -1,0 +1,12 @@
+<svg>
+  <defs>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="import" href="/mnt/sysassets/widgets_common.gui" />
+
+    <symbol id="frames" href="#sprite-image">
+      <animate id="anim" attributeName="value" begin="enable" from="01" to="40" dur="2"
+        repeatDur="2" repeatCount="indefinite" />
+      <image href="frames/frame_00.png" width="300" height="300" x="50%-150" y="50%-150" />
+    </symbol>
+  </defs>
+</svg>

@@ -1,0 +1,19 @@
+#time {
+  font-size: 40;
+  font-family: "System-Light";
+  text-anchor: start;
+  text-length: 150;
+  x: 20;
+  y: 50;
+  fill: black;
+}
+
+#hrm {
+  font-size: 15;
+  font-family: "System-Regular";
+  text-anchor: end;
+  text-length: 100;
+  x: 280;
+  y: 285;
+  fill: white;
+}

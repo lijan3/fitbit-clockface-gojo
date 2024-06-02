@@ -1,0 +1,5 @@
+<svg>
+  <use id="backgroundAnimation" href="#frames" />
+  <text id="time"></text>
+  <text id="hrm"></text>
+</svg>
