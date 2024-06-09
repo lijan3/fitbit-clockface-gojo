@@ -1,5 +1,9 @@
 <svg>
   <use id="backgroundAnimation" href="#frames" />
   <text id="time"></text>
-  <text id="hrm"></text>
+  <text id="date" class="text"></text>
+  <image id="stepsIcon" class="icon" href="icons/steps.png" />
+  <text id="steps" class="text">0</text>
+  <image id="hrmIcon" class="icon" href="icons/heartrate.png" />
+  <text id="hrm" class="text">--</text>
 </svg>

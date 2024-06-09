@@ -1,19 +1,47 @@
 #time {
-  font-size: 40;
-  font-family: "System-Light";
+  font-size: 60;
+  font-family: "System-Regular";
   text-anchor: start;
   text-length: 150;
   x: 20;
-  y: 50;
+  y: 60;
   fill: black;
+
+}
+
+.text {
+  font-size: 25;
+  font-family: "System-Regular";
+  text-anchor: start;
+  text-length: 50;
+  fill: white;
+  y: 288;
+}
+
+.icon {
+  text-anchor: start;
+  width: 20;
+  height: 20;
+  y: 270;
+}
+
+#date {
+  text-anchor: end;
+  x: 200;
+}
+
+#stepsIcon {
+  x: 20;
+}
+
+#steps {
+  x: 50;
 }
 
 #hrm {
-  font-size: 15;
-  font-family: "System-Regular";
-  text-anchor: end;
-  text-length: 100;
-  x: 280;
-  y: 285;
-  fill: white;
+  x: 250;
+}
+
+#hrmIcon {
+  x: 220;
 }
