@@ -19,9 +19,7 @@
       "access_user_profile"
     ],
     "buildTargets": [
-      "higgs",
       "meson",
-      "gemini",
       "mira"
     ],
     "i18n": {},
